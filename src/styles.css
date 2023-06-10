@@ -4,11 +4,14 @@ body {
 
 .input-area {
   background-color: #c1ffff;
+  width: 400px;
 }
 .incomplete-area {
   background-color: #c6ffe2;
+  width: 400px;
 }
 
 .complete-area {
   background-color: #ffffe0;
+  width: 400px;
 }
